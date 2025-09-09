@@ -7,3 +7,4 @@ networkx
 tqdm
 scipy
 igraph
+seaborn
