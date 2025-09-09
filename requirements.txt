@@ -1,5 +1,5 @@
 raphtory
-pyarrow<=17.0.0,>13.0.0
+pyarrow
 pandas
 matplotlib
 ipywidgets
